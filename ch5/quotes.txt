@@ -1,0 +1,15 @@
+ដេប៉ាតឺម៉ង់ធនាគារនិងហិរញ្ញមានគោលដៅជ្រើសរើស បុគ្គលិកដែលប្រកបដោយចំនេះដឹងទូទៅ, ការយល់ដឹងពីបញ្ហាប្រឈមផ្នែកហិរញ្ញវត្ថុនិងអាចធ្វើការក្នុងវិស័យធនាគារផងដែរដូចជានៅក្នុងការគ្រប់គ្រងរបស់ក្រុមហ៊ុនឯកជនក្នុងស្រុកនិងបរទេស។ និស្សិតអាចទទួលបាននូវចំនេះដឹងជាចាំបាច់ដើម្បីធ្វើប្រតិបត្តិការនៅក្នុងប្រទេសកម្ពុជានិងនៅបរទេសដោយសារតែទ្រឹស្តីដែលបានរៀនក្នុងក្របខ័ណ្ឌប្រព័ន្ធធនាគារ, សេដ្ឋកិច្ចកម្ពុជា,គណនេយ្យជាដើម។គោលដៅរបស់ដេប៉ាតឺម៉ង់នេះគឺដើម្បីបណ្តុះបណ្តាលធនធានមនុស្សដែលមានលក្ខណៈគ្រប់គ្រាន់ក្នុងវិស័យហិរញ្ញវត្ថុនិងធនាគារស្របជាមួយនឹងចំណេះដឹងក្នុងការហ្វឺកហាត់ការងារដោយ ទទួលប្រយោជន៍ពីសមិទ្ធិផលទាំងអស់នៃវិន័យនេះនៅកម្រិតថ្នាក់អន្តរជាតិ។ តម្រូវការចាំបាច់ ដើម្បីសិក្សានៅក្នុងដេប៉ាតឺម៉ង់នេះគឺនិស្សិតតម្រូវអោយមានសញ្ញាប័ត្រទុតិយៈភូមិរបស់វិទ្យាល័យនៅក្នុងប្រទេសកម្ពុជាឬសញ្ញាបត្រសមមូលរបស់ វិទ្យាល័យបរទេសដែលមាន លក្ខណៈវិនិច្ឆ័យស្របទៅតាមគោលកាណ៍ក្រសួងអប់រំយុវជននិងកីឡា។ និស្សិតដែលជ្រើសរើសសិក្សាក្នុងដេប៉ាតឺម៉ង់នេះនឹងត្រូវបានកំណត់ដោយការប្រឡងចូលរៀន។ ឯកសារចាំបាច់សម្រាប់ការចុះឈ្មោះនិង ការចូលរៀនត្រូវបានពន្យល់ក្នុងបទប្បញ្ញត្តិនៃដេប៉ាតឺម៉ង់ធនាគារនិងហិរញ្ញ។
+We are pleased to inform you that the ParagonIU Hackathon is a 2-day coding sprint that challenges all brave tech enthusiasts to build a functional application.
+
+Throughout the whole event, participants will go through a BootCamp where you will acquire relevant knowledge and instructions to prepare for Hackathon. You will be also expected to form your own “Avengers” team consisting of at least 2 coders, and 1 researcher/presenter. 
+
+On Hackathon day, each team will be given the coding challenge to build a web application using Facebook API. There are tech mentors in command of guiding you to build a successful project. 
+
+Finally, on Pitching Day, your team will take the stage to give demo of your project to respected judges who will select the top 3 winning teams for Hackathon.
+	
+Hello world.
+This is my quotes.
+
+	
+There are many thing to go.
+	
